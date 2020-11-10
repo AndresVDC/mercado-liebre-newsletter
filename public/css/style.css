@@ -1,0 +1,54 @@
+body{
+    font-family: Roboto;
+}
+
+.logo{
+    padding: 100px;
+    width: 120px;
+    height: 100px;
+    background-color: #eac926;
+    margin: 100px 100px 0px 0px;
+    float: left;
+    text-align: center;
+    }
+h1{ 
+    font-size: 32px;
+    color: #03264C;
+    background-color:#eac926 ;
+    text-align: left;
+    
+    
+    
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 32px;
+    text-transform: uppercase;
+}
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 12 px;
+    color: #666;
+    text-align: justify;
+}
+.banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+ul li{
+    list-style-type: none;
+    text-align: left;
+}
+.firma{
+    text-align: left;
+}
+small{
+    font-size: 8 px;
+    color: #ebebeb;
+    
+}
